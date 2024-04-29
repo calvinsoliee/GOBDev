@@ -1,2 +1,3 @@
-# GOBDevhttps://calvinsoliee.github.io/GOBDev/
+# GOBDev
+https://calvinsoliee.github.io/GOBDev/
 hit E 
